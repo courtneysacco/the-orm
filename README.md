@@ -27,4 +27,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Links
-<a href=">
+<a href="https://drive.google.com/file/d/1BEWkUSC9ZJGCSk78aKcyMk1KjG8O3Tsw/view"
+target="_blank">Walkthrough Video</a>
